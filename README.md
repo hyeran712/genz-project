@@ -608,8 +608,18 @@ summary.addEventListener('pointermove', event => {
 
 <br>
 
-<div align="center">
 
+## 📑 발표 자료
+
+| 형식 | 보기 | 설명 |
+| :-- | :-- | :-- |
+| 📄 PDF | [바로 보기](genz-pyoryugi.pdf) | GitHub에서 바로 열려요 |
+| 📊 PPT | [다운로드](genz-pyoryugi.pptx) | 발표자 노트 포함 |
+| 🌐 HTML | [다운로드](genz-pyoryugi.html) | 왼쪽 목차 + 스크롤 버전 |
+
+<br>
+
+<div align="center">
 **🏝️ 오늘도 무사히 퇴근!**
 
 <sub>Made with 💙 by 젠지 표류기 팀 · 동아일보 부트캠프 2026</sub>
