@@ -615,7 +615,7 @@ summary.addEventListener('pointermove', event => {
 | :-- | :-- | :-- |
 | 📄 PDF | [바로 보기](genz-pyoryugi.pdf) | GitHub에서 바로 열려요 |
 | 📊 PPT | [다운로드](genz-pyoryugi.pptx) | 발표자 노트 포함 |
-| 🌐 HTML | [다운로드](genz-pyoryugi.html) | 왼쪽 목차 + 스크롤 버전 |
+| 🌐 HTML | [바로 보기](https://genz-pyoryugi-deck.netlify.app) | 왼쪽 목차 + 스크롤 버전 |
 
 <br>
 
